@@ -18,9 +18,13 @@ The code uses the PADS (Parkinson's Disease Smartwatch) dataset, which contains:
 ```
 ├── data_preprocessing.py    # Converts raw .txt files to CSV format
 ├── classifier.py           # Main training script with dual-stream transformer
-├── EDA.py                 # Exploratory data analysis and visualization
+├── EDA.py
+├── data_viz.ipynb
+├── two_stream_transformer.pt
+├── two_stream_transformer_hc_pd.pt                   # Exploratory data analysis and visualization
 └── README.md
 ```
+
 
 ## Requirements
 ```
