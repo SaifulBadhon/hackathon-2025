@@ -116,9 +116,8 @@ This script provides:
 Left Wrist Data  ─┐
                   ├──> StreamEncoder ──┐
                   │                    │
-Right Wrist Data ─┘                    ├──> Concatenate ──> Classification Head
-                                       │
-                  ├──> StreamEncoder ──┘
+Right Wrist Data  │                    ├──> Concatenate ──> Classification Head│                    │
+                 ─┘──> StreamEncoder ──┘
 ```
 
 **StreamEncoder Components:**
