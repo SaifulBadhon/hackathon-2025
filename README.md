@@ -189,7 +189,7 @@ PADS - Parkinson's Disease Smartwatch Dataset
 
 ## Model Description
 
-two_stream_transformer: trained only on healthy data
-two_stream_transformer_hc_pd: trained using both
-two_stream_transformer_hc3: iterative trained model
+two_stream_transformer: trained only on healthy data//
+two_stream_transformer_hc_pd: trained using both//
+two_stream_transformer_hc3: iterative trained model//
 two_stream_transformerh: trained on PD
